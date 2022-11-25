@@ -30,8 +30,8 @@ Github Stats
 Github Stats:
 </h3>
 <div align="left">
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=Qw3n1448&count_private=true&show_icons=true&line_height=25&show_icons=true&theme=tokyonight" alt="Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qw3n1448&layout=compact&langs_count=8&card_width=350&show_icons=true&theme=tokyonight" alt="labgs">
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=officialqw3n&count_private=true&show_icons=true&line_height=25&show_icons=true&theme=tokyonight" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialqw3n&layout=compact&langs_count=8&card_width=350&show_icons=true&theme=tokyonight" alt="labgs">
 </div>
 
 <!--
